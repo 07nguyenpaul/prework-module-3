@@ -1,0 +1,25 @@
+{
+  "name": "promise-shop",
+  "version": "1.0.0",
+  "description": "practice on promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevekane/promise-it-wont-hurt.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Paul Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevekane/promise-it-wont-hurt/issues"
+  },
+  "homepage": "https://github.com/stevekane/promise-it-wont-hurt#readme",
+  "dependencies": {
+    "q-io": "^1.13.2"
+  }
+}
